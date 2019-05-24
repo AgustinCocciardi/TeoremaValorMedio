@@ -33,6 +33,7 @@ public class Polinomio {
 		double puntoMedio = calcularValorMedio(a,b,cotaError);
 		System.out.println("El punto medio de " + a + " y " + b + " es: " + puntoMedio);
 		System.out.println("F(" + puntoMedio + ") = " + evaluarPolinomio(puntoMedio));
+		System.out.println("Hacer un push y commit a github");
 	}
 
 }
